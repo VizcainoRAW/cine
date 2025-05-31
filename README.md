@@ -29,6 +29,28 @@ cine/
 
 ---
 
+---
+
+## 🖼️ Capturas de la Interfaz
+
+### 🔐 Login
+
+![Login](figures/login.png)
+
+---
+
+### 🎞️ Listado de Películas
+
+![Películas](figures/movies.png)
+
+---
+
+### 🎟️ Selección de Asientos
+
+![Asientos](figures/seats.png)
+
+---
+
 ## 📐 Arquitectura Hexagonal
 
 Este proyecto sigue la **Arquitectura Hexagonal (Ports and Adapters)**, permitiendo una separación estricta entre dominio, aplicación e infraestructura. Solo los adaptadores interactúan con el mundo externo (por ejemplo, base de datos y web controllers).
@@ -104,27 +126,7 @@ frontend/
 ```
 
 
----
 
-## 🖼️ Capturas de la Interfaz
-
-### 🔐 Login
-
-![Login](figures/login.png)
-
----
-
-### 🎞️ Listado de Películas
-
-![Películas](figures/movies.png)
-
----
-
-### 🎟️ Selección de Asientos
-
-![Asientos](figures/seats.png)
-
----
 
 ## 🚀 Cómo ejecutar
 
